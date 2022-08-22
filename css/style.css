@@ -6,7 +6,8 @@ body {
   max-width: 60em;
   font-family: 'Roboto Mono', sans-serif;
   line-height: 1.5;
-  color: #2d354c;
+  color: #454545;
+  background-color: rgb(184, 218, 245);
 }
 
 button,
@@ -53,11 +54,11 @@ table input[type='number'] {
 }
 
 .btn-success {
-  background-color: #2cc5fa;
+  background-color: #084255;
 }
 
 .btn-remove {
-  background-color: #f27471;
+  background-color: #6d0908;
 }
 
 h1,
